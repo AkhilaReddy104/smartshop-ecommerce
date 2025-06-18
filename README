@@ -1,0 +1,53 @@
+# SmartShop – Responsive E-Commerce Web Prototype
+
+SmartShop is a responsive e-commerce website prototype built using pure **HTML5** and **CSS3**. This project demonstrates clean web structure, visual design, and interactive components without the use of JavaScript, making it lightweight and accessible.
+
+---
+
+## 📌 Features
+- **Semantic HTML structure** (header, nav, section, footer)
+- **Responsive layout** using media queries
+- **CSS-based carousels** for Products and Deals
+- **Hover effects** and call-to-action Buy Now buttons
+- **Testimonials** section showcasing customer feedback
+- **Accordion-style FAQ** using HTML `<details>` and `<summary>`
+- **Footer with social media icons**
+- Optimized for desktop, tablet, and mobile devices
+
+---
+
+## ⚙️ Built With
+- **HTML5**  
+- **CSS3 (Flexbox, media queries, keyframe animations)**  
+- No JavaScript
+
+---
+
+## 🚀 How to Run
+1. Download or clone this repository.
+2. Open `index.html` in any modern web browser.
+3. View the site on different screen sizes to see responsive behavior.
+
+---
+
+## 💡 Purpose
+This project was created to demonstrate skills in:
+- HTML structure for marketing-oriented web pages
+- Responsive and accessible design
+- Clean CSS styling and animations without JavaScript
+
+---
+
+## 📬 Contact
+- 📧 support@smartshop.com (demo contact)
+- 📱 +91 xxxxxxxxxx (demo contact)
+
+---
+
+## 📝 Author
+**B AKHILA**  
+
+---
+
+## 🌐 Live Demo
+*(Optional: Include a GitHub Pages / Netlify / Vercel link if you deploy the project.)*
